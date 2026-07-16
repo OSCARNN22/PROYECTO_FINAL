@@ -33,7 +33,6 @@ Durante el desarrollo del proyecto se realizaron las siguientes actividades:
 - **Carga de datos:** Importación del archivo CSV y revisión de su estructura.
 - **Análisis Exploratorio de Datos (EDA):** Identificación de tipos de datos, revisión de valores nulos, estadísticas descriptivas y análisis de las principales variables.
 - **Visualizaciones:** Elaboración de gráficos para analizar ventas, ganancias, categorías de productos, regiones y otras variables relevantes.
-- **Consultas SQL:** Ejecución de consultas SQL sobre el dataset para responder preguntas de negocio y obtener información adicional.
 - **Consultas SQL con DuckDB:** Integración de DuckDB para ejecutar consultas SQL directamente sobre el DataFrame, obteniendo información como ventas por categoría, ganancias por región, productos más vendidos y otros indicadores de interés para el análisis.
 
 ## Tecnologías utilizadas
